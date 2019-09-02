@@ -1,0 +1,31 @@
+{
+  "name": "firestore-api-example",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "clear && echo '\r\nStart\r\n'",
+  },
+  "author": {
+    "name": "listingslab",
+    "email": "listingslab@gmail.com"
+  },
+  "license": "OSL-3.0",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/listingslab-software/firestore-api-example"
+  },
+  "engines": {
+    "node": "10"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "JavaScript",
+    "Firebase",
+    "Node",
+    "Fullstack",
+    "Isomorphic"
+  ]
+}
