@@ -3,7 +3,7 @@
   "description": "",
   "version": "0.0.2",
   "scripts": {
-    "start": "clear && echo '\r\nStart\r\n'",
+    "start": "clear && echo '\r\nStarting...\r\n' && firebase serve"
   },
   "author": {
     "name": "listingslab",
@@ -15,12 +15,12 @@
     "url": "https://github.com/listingslab-software/firestore-api-example"
   },
   "engines": {
-    "node": "10"
+    "node": "8"
   },
   "dependencies": {
+    "listingslab": "^0.2.7"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "JavaScript",
     "Firebase",
